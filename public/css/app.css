@@ -1,0 +1,11 @@
+@import url(home/home.css);
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-background {background-color: #f0f0f0;}
+.text-textPrimary {color: #333333;}
+.text-textSecondary {color: #666666;}
+.text-primary {color: #3485f0;}
+.bg-buttonBg {background-color: #4CAF50;}
+.hover\:bg-buttonHoverBg:hover {background-color: #45a049;}
